@@ -3,9 +3,7 @@
 package nse.core.types
 
 object Types {
-  def isNumber(value: String): Boolean = {
-
-  }
+  def isNumber(value: String) {}
 }
 
 trait MalType
